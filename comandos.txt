@@ -1,0 +1,44 @@
+# 1️⃣ Inicializa un nuevo proyecto de Node.js y crea el archivo package.json  
+npm init 
+
+# 2️⃣ Instala Express como dependencia  
+npm i express  
+
+# 3️⃣ Habilita el modo "watch" con Node.js para recargar automáticamente cuando hay cambios  
+node --watch index.js  
+
+# 4️⃣ Instala Nodemon como dependencia de desarrollo para monitorear cambios en el código  
+npm i -D nodemon  
+
+# 5️⃣ Instala TypeScript y ts-node para compilar TypeScript a JavaScript  
+npm i -D typescript ts-node  
+
+# 6️⃣ Instala los tipos de Express para TypeScript  
+npm i --save-dev @types/express  
+
+
+
+$ npm run build
+
+$ npm i  mongoose
+
+
+found 0 vulnerabilities
+
+ $ npm i dotenv
+
+ npm i bcrypt
+ npm i --save-dev @types/bcrypt
+
+
+ npm i slug
+
+ npm i --save-dev @types/slug
+
+ npm i express validator
+ $ npm i cors
+npm i -D @types/cors
+
+
+$ npm i jsonwebtoken
+$ npm i -D @types/jsonwebtoken
